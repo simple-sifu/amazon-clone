@@ -52,6 +52,16 @@ function Home() {
                     image="https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png"
                 />
            </div>
+
+           <div className="home__row">
+                <Product
+                    id="12321341"
+                    title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
+                    price={11.96}
+                    rating={5}
+                    image="https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png"
+                />
+           </div>
         </div>
     )
 }
