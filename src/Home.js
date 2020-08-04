@@ -22,11 +22,11 @@ function Home() {
                     image="https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png"
                 />
                 <Product
-                    id="12321341"
-                    title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-                    price={11.96}
-                    rating={5}
-                    image="https://upload.wikimedia.org/wikipedia/en/1/11/Lean_Startup.png"
+                    id="12321344"
+                    title="Kitchenaid Professional 600 Stand Mixer 6 quart, Empire Red "
+                    price={30.99}
+                    rating={4}
+                    image="https://m.media-amazon.com/images/I/61V3VySfPWL._AC_UY436_FMwebp_QL65_.jpg"
                 />
            </div>
            <div className="home__row">
