@@ -15,4 +15,4 @@ export const StateProvider = ({reducer, initialState, children}) => (
 
 // This is how we use it inside a component
 
-export const useState = () => useContext;
+export const useState = () => useContext(StateContext);
