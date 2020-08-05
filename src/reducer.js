@@ -1,5 +1,14 @@
 export const initialState = {
-    basket: [],
+    basket: [
+    {
+        id: "3243243243",
+        title: "New Apple IPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)",
+        price: 589.99,
+        rating: 4,
+        image: "https://images-na.ssl-images-amazon.com/images/I/81bFlyDPHkL._AC_SL1500_.jpg"
+    }
+],
+user: null,
 };
 
 const reducer = (state, action) => {
