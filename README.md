@@ -1,3 +1,31 @@
+# amazon-clone
+
+remove .firebaserc
+
+remove firebase.json
+
+remove build folder
+
+firebase login (once)
+
+firebase init
+
+---> Hosting: Configure and deploy Firebase Hosting sites
+
+---> Use an existing Project
+
+---> amazon-clone
+
+What do you want to use as your public directory? build
+
+Configure as a single-page app (rewrite all urls to /index.html)? y
+
+npm run build
+
+firebase deploy
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,17 +94,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# amazon-clone
-
-remove .firebaserc
-remove firebase.json
-remove build folder
-firebase login (once)
-firebase init
----> Hosting: Configure and deploy Firebase Hosting sites
----> Use an existing Project
----> amazon-clone
-What do you want to use as your public directory? build
-Configure as a single-page app (rewrite all urls to /index.html)? y
-npm run build
-firebase deploy
