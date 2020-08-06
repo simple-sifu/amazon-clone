@@ -1,4 +1,4 @@
-# amazon-clone
+# amazon-clone Deployment to Firebase
 
 remove .firebaserc
 
